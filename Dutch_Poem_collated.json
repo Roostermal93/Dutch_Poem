@@ -1,0 +1,63 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "1caaff46-b9ec-4f53-a82e-bf650daaab69",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/1caaff46-b9ec-4f53-a82e-bf650daaab69_du_Male.mp4"
+        },
+        {
+            "id": "69a999f7-e59b-4795-9723-0e33d0498322",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/69a999f7-e59b-4795-9723-0e33d0498322_du_Female.mp4"
+        },
+        {
+            "id": "c54c6a50-c4d1-4dd2-983f-e9f902be963c",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/c54c6a50-c4d1-4dd2-983f-e9f902be963c_du_Male.mp4"
+        },
+        {
+            "id": "e67e6bc7-5be5-4f76-8725-d9ff393dd18c",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/e67e6bc7-5be5-4f76-8725-d9ff393dd18c_du_Female.mp4"
+        },
+        {
+            "id": "bfcd91cb-87d6-423f-b21c-6640a698220d",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/bfcd91cb-87d6-423f-b21c-6640a698220d_du_Male.mp4"
+        },
+        {
+            "id": "8ed85095-a4e1-48ab-b846-821453f7a54d",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/8ed85095-a4e1-48ab-b846-821453f7a54d_du_Male.mp4"
+        },
+        {
+            "id": "87ac21cd-3133-4699-b315-de56efba6c63",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/87ac21cd-3133-4699-b315-de56efba6c63_du_Female.mp4"
+        },
+        {
+            "id": "c08516f6-3f33-483c-ad95-909c6f6db6bb",
+            "collectionId": "Dutch",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Dutch/c08516f6-3f33-483c-ad95-909c6f6db6bb_du_Female.mp4"
+        }
+    ]
+}
